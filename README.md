@@ -6,9 +6,7 @@ http://distv.
 
 
 
-######################################### Canais Variedade
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/I8c1wzx.png" group-title="Variedade e Músicas",Classic Hits
+###EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/I8c1wzx.png" group-title="Variedade e Músicas",Classic Hits
 http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tu7fQmk.png" group-title="Variedade e Músicas",SCH
@@ -32,9 +30,6 @@ http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8?PEDROJUNIORTU
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PFJydKG.png" group-title="Variedade e Músicas",Smithsonian
 http://origin-02.nxplay.com.br/SMITHSONIAN_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/F0m1RWE.png" group-title="Variedade e Músicas",Loading
-http://200.4.96.35:8001/play/a0fc?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
 http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -47,6 +42,9 @@ https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="Variedade e Músicas",Top TV PA
 http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/F0m1RWE.png" group-title="Variedade e Músicas",Loading
+http://189.91.128.146:4444/udp/227.10.20.143:1234?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/pql9wHs.png" group-title="Variedade e Músicas",Gospel Music TV 
 http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -55,29 +53,30 @@ http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
 
 #EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil
-http://sv1.srvstm.gq:80/live/teste/teste/7977.m3u8
+http://live.meusrv.gq/hls/499ef2710fa2/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva
-http://200.4.96.35:8001/play/a0ek?PEDROJUNIORTUTORIAIS
+http://live.meusrv.gq/hls/96df664f9f65/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT
-http://sv1.srvstm.gq:80/live/teste/teste/7976.m3u8
+http://live.meusrv.gq/hls/fd44cfa9846d/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis
-http://sv1.srvstm.gq:80/live/teste/teste/7975.m3u8
+http://live.meusrv.gq/hls/3d1bf08497f1/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat
-http://sv1.srvstm.gq:80/live/teste/teste/7978.m3u8
+http://live.meusrv.gq/hls/9ae4599e0ac9/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV HD
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live
+http://170.82.200.38:8080/mtv_live/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
 
@@ -90,4 +89,3 @@ http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIA
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil
 http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
